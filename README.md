@@ -83,7 +83,7 @@ I build intelligent apps, scalable systems, and user-focused digital products �
 
 ## 📈 What I'm Building Next
 
-* 🤖 Advanced AI financial assistant
+* 🤖 Advanced AI systems
 * 📊 Real-time data-driven applications
 * 🧩 Scalable SaaS tools
 
@@ -91,7 +91,7 @@ I build intelligent apps, scalable systems, and user-focused digital products �
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: https://github.com/your-username
+* 💼 GitHub: https://github.com/aaron-sequeira
 * 🌐 Portfolio: Coming Soon
 
 ---
